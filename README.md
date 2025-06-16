@@ -5,7 +5,7 @@
 > End-to-end machine learning pipeline for SEM image preprocessing, feature extraction with InceptionV3, PCA dimensionality reduction, and regression modeling (Random Forest, XGBoost, Linear Regression) to predict **Average Diameter (D)** from SEM image data.
 
 ---
-📂 [![Klik di sini untuk mengakses dataset Google Drive]((https://drive.google.com/drive/folders/1HuZaFBxqUeP_lBYr7JJuPxJfo63xiw2j))]
+📂 [![Google Drive](https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png)]((https://drive.google.com/drive/folders/1HuZaFBxqUeP_lBYr7JJuPxJfo63xiw2j))
 
 
 ## 👥 Team Members
