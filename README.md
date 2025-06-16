@@ -139,7 +139,7 @@ pip install -r requirements.txt
 
 ## ✉️ Contact
 📧 dikifernandi0@gmail.com
-📧 auliadefitriw@email.com  
+📧 auliadefitriw@gmail.com  
 
 ---
 
