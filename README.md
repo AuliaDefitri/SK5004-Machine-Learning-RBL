@@ -27,7 +27,6 @@ rbl-sem-image-regression/
 ├── embedding/             # Feature extraction with InceptionV3
 ├── pca/                   # PCA for feature compression
 ├── regression/            # RF, XGBoost, and Linear Regression models
-├── models/                # Saved .pkl models (optional)
 ├── data/                  # Raw, processed, features CSVs
 ├── examples/              # Sample plots or prediction visuals
 ├── main_pipeline.ipynb    # Integrated Colab-compatible notebook
