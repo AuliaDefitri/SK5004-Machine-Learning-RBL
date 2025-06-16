@@ -1,6 +1,6 @@
 # 🧠 RBL SEM Image Regression (CNN + ML)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AuliaDefitri/rbl-sem-image-regression/blob/main/main_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fLn_mQTZsRlmy201oV3ceCw6sbtd_I71#scrollTo=ROE76NRMNUbg))
 
 > End-to-end machine learning pipeline for SEM image preprocessing, feature extraction with InceptionV3, PCA dimensionality reduction, and regression modeling (Random Forest, XGBoost, Linear Regression) to predict **Average Diameter (D)** from SEM image data.
 
